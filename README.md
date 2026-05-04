@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="hero.png" width="100%" alt="Heuresis — Encode Your Expertise Into Systems That Compound">
+<img src="hero.png" width="100%" alt="Heuresis — Encode Your Dream Company">
 
 <br/>
 <br/>
-
-### Encode your dream company.
 
 A workspace you own. Every department encoded.
 
@@ -47,8 +45,6 @@ cd Growth-Operator-Agency
 Eleven runtimes supported: Claude Code, GitHub Copilot, Antigravity,
 Gemini CLI, OpenCode, Cursor, Aider, Windsurf, OpenClaw, Qwen Code, Kimi Code.
 
-The workspace is the asset. The runtime is replaceable.
-
 ## How encoding works
 
 Every workspace ships in three layers:
@@ -67,6 +63,6 @@ every output. The receipts compound.
 
 <div align="center">
 
-<sub>Built by <a href="https://heuresis.ai">Heuresis</a> — the encoding layer for companies.</sub>
+<sub><a href="https://heuresis.ai">heuresis.ai</a></sub>
 
 </div>
